@@ -10,6 +10,12 @@ pedido e acompanhe cada etapa até a entrega. Os pagamentos são simulados.
 - Pedido criado no banco por uma função que **calcula o total com os preços do servidor**
 - Acompanhamento com linha do tempo (atualiza sozinho), cancelamento e "Pedir novamente"
 - Histórico de pedidos e dados isolados por usuário (Row Level Security)
+## Capturas de tela
+
+| Lojas | Carrinho | Acompanhamento | Pedidos |
+| --- | --- | --- | --- |
+| ![Lojas](docs/Loja.jpeg) | ![Carrinho](docs/Carrinho.jpeg) | ![Acompanhamento](docs/Acompanhamento.jpeg) | ![Pedidos](docs/Pedidos.jpeg) |
+
 ## Tecnologias
 
 React Native · Expo · Expo Router · TypeScript · Supabase (Auth, Postgres, RLS, funções SQL) ·
