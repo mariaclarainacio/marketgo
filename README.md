@@ -58,4 +58,4 @@ supabase/
 - GitHub: https://github.com/mariaclarainacio/marketgo
 
 **Matheus Augusto**
-- GitHub: https://github.com/USUARIO-DO-MATHEUS
+- GitHub: https://github.com/TheuznX
